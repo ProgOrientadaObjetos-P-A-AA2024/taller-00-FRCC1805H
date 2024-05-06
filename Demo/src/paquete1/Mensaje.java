@@ -5,6 +5,10 @@
  */
 package paquete1;
 
+import paquete3.Informacion;
+import paquete4.Palabra;
+
+
 /**
  *
  * @author reroes
