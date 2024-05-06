@@ -23,7 +23,7 @@ public class Demo002 {
         
         // usar printf;
         Scanner entrada = new Scanner(System.in);
-        System.out.println("ingrese un numero para imprimir");
+        System.out.println("Dijite cualquier numero para imprimir el mensaje");
         int num = entrada.nextInt();
         if( num >= 1 && num <= 5 ){
             System.out.printf("%s con %d\n",Mensaje.obtenerMensaje(),
